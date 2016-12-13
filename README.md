@@ -1,10 +1,11 @@
 # A Chino.io Django integration
 > ********************************************************************************
- This code has been made by 3rd party that developed their solution
-using chino as backend. 
-
-For this specic repository the code has been written by [mari8i](https://github.com/mari8i) 
- NB: This is just an example, it is NOT intended to be working code.   
+> **** This code has been made by 3rd party that developed their solution ****
+> **** using chino as backend. ****
+> ****  ****
+> **** For this specic repository the code has been written by [mari8i](https://github.com/mari8i) ****
+> **** ****
+> ****  NB: This is just an example, it is NOT intended to be working code.   ****
 > ********************************************************************************
 
 Here follows a brief description of the contents of this package, file per file
